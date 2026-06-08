@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Box (Rounded Rect) -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M 36,24 L 72,24 C 78.627,24 84,29.373 84,36 L 84,72 C 84,78.627 78.627,84 72,84 L 36,84 C 29.373,84 24,78.627 24,72 L 24,36 C 24,29.373 29.373,24 36,24 Z" />
+
+    <!-- L Shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 40,38 L 48,38 L 48,62 L 68,62 L 68,70 L 40,70 Z" />
+
+    <!-- AI Sparkle 1 -->
+    <path
+        android:fillColor="#EADDFF"
+        android:pathData="M 70,30 L 71.5,25.5 L 76,24 L 71.5,22.5 L 70,18 L 68.5,22.5 L 64,24 L 68.5,25.5 Z" />
+        
+    <!-- AI Sparkle 2 -->
+    <path
+        android:fillColor="#EADDFF"
+        android:pathData="M 80,48 L 81,45 L 84,44 L 81,43 L 80,40 L 79,43 L 76,44 L 79,45 Z" />
+</vector>

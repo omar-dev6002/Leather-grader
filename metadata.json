@@ -1,0 +1,8 @@
+{
+  "name": "LeatherGrader",
+  "description": "App to grade finished leather crust into Grade A, B, or C using AI computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
